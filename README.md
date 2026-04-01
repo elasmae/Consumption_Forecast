@@ -4,7 +4,7 @@
 
 ##  Objectif
 
-Ce trqvqil vise à prédire la consommation d’énergie à partir de données historiques (consommation électrique, météo, calendrier).  
+Ce travail vise à prédire la consommation d’énergie à partir de données historiques (consommation électrique, météo, calendrier).  
 Trois modèles de machine learning sont utilisés pour effectuer des prévisions de consommation sur (30 jours) :
 
 -  Random Forest
